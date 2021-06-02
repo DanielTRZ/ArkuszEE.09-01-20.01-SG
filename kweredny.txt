@@ -1,0 +1,4 @@
+kw1: SELECT `id`,`nazwa`,`wystepowanie` FROM `ryby`WHERE`styl_zycia` = 2
+kw2: SELECT `akwen`,`wojewodztwo`FROM `lowisko` WHERE`rodzaj`=2 OP rodzaj =3
+kw3: SELECT nazwa FROM ryby JOIN okres_ochronny ON ryby.id = okres_ochronny.Ryby_id WHERE od_miesiaca = 0
+kw4: CREATE TABLE Wedkarze(id int UNSIGNED NOT NULL, imie text , nazwisko text ,punkty int)
