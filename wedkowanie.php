@@ -48,6 +48,5 @@
   <div class="stopka">
       <p>Stronę wykonał: Daniel</p>
   </div>
-
     </body>
 </html>
