@@ -2,7 +2,7 @@
 <html lang="pl">
 <head>
 <meta charset="utf-8">
-     <title>Klub wędkowania</title>
+<title>Klub wędkowania</title>
      <link rel="stylesheet" href="styl2.css">
      <script src="skrypt.js"></script>
   </head>
