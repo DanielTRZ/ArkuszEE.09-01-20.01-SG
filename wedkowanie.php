@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="pl">
-  <head>
+<head>
 <meta charset="utf-8">
      <title>Klub wędkowania</title>
      <link rel="stylesheet" href="styl2.css">
