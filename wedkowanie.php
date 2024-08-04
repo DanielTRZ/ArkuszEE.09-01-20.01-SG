@@ -16,7 +16,7 @@
 <img src="ryba2.jpg" alt="Szczupak" id="obrazek" name="obrazek">
 </div>
   
-  <div class="prawy">
+<div class="prawy">
       <h3>Ryby spokojnego żeru(białe)</h3>
       
       <?php
