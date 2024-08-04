@@ -23,7 +23,7 @@
 $align='right';
       
 $baza=mysqli_connect('localhost','root','','wedkowanie');
-      if(mysqli_connect_errno()){
+if(mysqli_connect_errno()){
           echo"Wystapil blad polaczenia z baza";
       }
       
