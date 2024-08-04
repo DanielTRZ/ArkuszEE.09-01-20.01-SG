@@ -10,7 +10,7 @@
   
 <div class="baner">
 <h2>Wędkuj z nami!</h2>
-  </div>
+</div>
   
   <div class="lewy">
       <img src="ryba2.jpg" alt="Szczupak" id="obrazek" name="obrazek">
