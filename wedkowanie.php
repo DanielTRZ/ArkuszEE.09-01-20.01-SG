@@ -14,7 +14,7 @@
   
 <div class="lewy">
 <img src="ryba2.jpg" alt="Szczupak" id="obrazek" name="obrazek">
-  </div>
+</div>
   
   <div class="prawy">
       <h3>Ryby spokojnego żeru(białe)</h3>
