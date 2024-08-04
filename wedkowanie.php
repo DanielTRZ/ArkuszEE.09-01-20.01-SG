@@ -12,7 +12,7 @@
 <h2>Wędkuj z nami!</h2>
 </div>
   
-  <div class="lewy">
+<div class="lewy">
 <img src="ryba2.jpg" alt="Szczupak" id="obrazek" name="obrazek">
   </div>
   
