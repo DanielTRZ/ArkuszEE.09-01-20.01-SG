@@ -20,7 +20,7 @@
 <h3>Ryby spokojnego żeru(białe)</h3>
       
 <?php
-      $align='right';
+$align='right';
       
       $baza=mysqli_connect('localhost','root','','wedkowanie');
       if(mysqli_connect_errno()){
