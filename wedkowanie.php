@@ -8,7 +8,7 @@
 </head>
 <body>
   
-  <div class="baner">
+<div class="baner">
 <h2>Wędkuj z nami!</h2>
   </div>
   
