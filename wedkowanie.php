@@ -17,7 +17,7 @@
 </div>
   
 <div class="prawy">
-      <h3>Ryby spokojnego żeru(białe)</h3>
+<h3>Ryby spokojnego żeru(białe)</h3>
       
       <?php
       $align='right';
