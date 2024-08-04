@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="styl2.css">
 <script src="skrypt.js"></script>
 </head>
-  <body>
+<body>
   
   <div class="baner">
 <h2>Wędkuj z nami!</h2>
