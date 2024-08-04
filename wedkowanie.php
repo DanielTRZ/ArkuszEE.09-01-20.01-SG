@@ -9,7 +9,7 @@
   <body>
   
   <div class="baner">
-      <h2>Wędkuj z nami!</h2>
+<h2>Wędkuj z nami!</h2>
   </div>
   
   <div class="lewy">
