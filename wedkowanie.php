@@ -25,7 +25,7 @@ $align='right';
 $baza=mysqli_connect('localhost','root','','wedkowanie');
 if(mysqli_connect_errno()){
 echo"Wystapil blad polaczenia z baza";
-      }
+}
       
       $wynik=mysqli_query($baza,"SELECT `id`,`nazwa`,`wystepowanie` FROM `ryby`WHERE`styl_zycia` = 2");
         while($row=mysqli_fetch_array($wynik)){  
