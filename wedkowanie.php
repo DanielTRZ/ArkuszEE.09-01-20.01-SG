@@ -29,8 +29,8 @@ echo"Wystapil blad polaczenia z baza";
       
 $wynik=mysqli_query($baza,"SELECT `id`,`nazwa`,`wystepowanie` FROM `ryby`WHERE`styl_zycia` = 2");
 while($row=mysqli_fetch_array($wynik)){  
-                
-      echo "<ul>";
+
+echo "<ul>";
       echo $row['id']." .".$row['nazwa']." wystepuje w:".$row['wystepowanie'];"<br>"; 
       echo "</ul>";
             
