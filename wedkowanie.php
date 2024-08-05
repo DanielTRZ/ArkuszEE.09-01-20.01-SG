@@ -41,7 +41,7 @@ mysqli_close($baza);
 <ol>
 <li><a href="https://wedkuje.pl" target="_blank">Odwiedź także</a></li>
 <li><a href="http://www.pzw.org.pl" target="_blank">Polski Związek Wędkarski</a></li>
-      </ol>
+</ol>
       
   </div>
   <div class="stopka">
