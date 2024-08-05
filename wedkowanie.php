@@ -38,8 +38,7 @@ echo "</ul>";
 mysqli_close($baza);
 ?>
 <br>
-      
-      <ol>
+<ol>
       <li><a href="https://wedkuje.pl" target="_blank">Odwiedź także</a></li>
        <li><a href="http://www.pzw.org.pl" target="_blank">Polski Związek Wędkarski</a></li>
       </ol>
