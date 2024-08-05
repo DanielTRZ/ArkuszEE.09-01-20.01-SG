@@ -37,7 +37,7 @@ echo "</ul>";
 }
 mysqli_close($baza);
 ?>
-      <br>
+<br>
       
       <ol>
       <li><a href="https://wedkuje.pl" target="_blank">Odwiedź także</a></li>
