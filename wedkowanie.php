@@ -34,7 +34,7 @@ echo "<ul>";
 echo $row['id']." .".$row['nazwa']." wystepuje w:".$row['wystepowanie'];"<br>"; 
 echo "</ul>";
             
-      }
+}
       mysqli_close($baza);
       ?>
       <br>
