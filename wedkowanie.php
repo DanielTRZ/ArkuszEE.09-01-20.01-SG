@@ -32,7 +32,7 @@ while($row=mysqli_fetch_array($wynik)){
 
 echo "<ul>";
 echo $row['id']." .".$row['nazwa']." wystepuje w:".$row['wystepowanie'];"<br>"; 
-      echo "</ul>";
+echo "</ul>";
             
       }
       mysqli_close($baza);
