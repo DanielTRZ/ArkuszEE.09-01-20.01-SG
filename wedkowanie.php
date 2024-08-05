@@ -31,7 +31,7 @@ $wynik=mysqli_query($baza,"SELECT `id`,`nazwa`,`wystepowanie` FROM `ryby`WHERE`s
 while($row=mysqli_fetch_array($wynik)){  
 
 echo "<ul>";
-      echo $row['id']." .".$row['nazwa']." wystepuje w:".$row['wystepowanie'];"<br>"; 
+echo $row['id']." .".$row['nazwa']." wystepuje w:".$row['wystepowanie'];"<br>"; 
       echo "</ul>";
             
       }
