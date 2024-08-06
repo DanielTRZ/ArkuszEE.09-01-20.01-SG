@@ -43,7 +43,7 @@ mysqli_close($baza);
 <li><a href="http://www.pzw.org.pl" target="_blank">Polski Związek Wędkarski</a></li>
 </ol>
       
-  </div>
+</div>
   <div class="stopka">
       <p>Stronę wykonał: Daniel</p>
   </div>
