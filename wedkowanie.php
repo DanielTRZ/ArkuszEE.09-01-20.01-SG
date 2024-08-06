@@ -44,7 +44,7 @@ mysqli_close($baza);
 </ol>
       
 </div>
-  <div class="stopka">
+<div class="stopka">
       <p>Stronę wykonał: Daniel</p>
   </div>
     </body>
